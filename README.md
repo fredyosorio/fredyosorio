@@ -5,11 +5,10 @@
 
 </br>
 
-## :computer: Skills
+<h1 align="center">Skills</h1>
 
-### 👉 Programming languages
-
-<p align="left">
+<h3 align="center">👉 Programming languages</h3>
+<p align="center">
   &emsp;
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
@@ -24,8 +23,8 @@
   </a>
 </p>
 
-### 👉 Frameworks
-<p align="left">
+<h3 align="center">👉 Frameworks </h3>
+<p align="center">
   &emsp;
   <a href="https://laravel.com/" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
@@ -48,8 +47,8 @@
   </a>
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
+<h3 align="center">👉 Frontend Development </h3>
+<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -76,8 +75,8 @@
   </a>
 </p>
 
-### 👉 Databases
-<p align="left">
+<h3 align="center">👉 Databases </h3>
+<p align="center">
   &emsp;
     <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
@@ -85,9 +84,9 @@
   &emsp;
     <a href="https://www.sqlite.org/" target="_blank"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
 </p>
-  
-### 👉Graphic Designing
-<p align="left">
+
+<h3 align="center">👉 Graphic Design </h3>
+<p align="center">
   &emsp;  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
@@ -110,9 +109,8 @@
   </a>
 </p>
 
-### 👉 Software & Tools
- 
-<p>
+<h3 align="center">👉 Software & Tools </h3> 
+<p align="center">
   &emsp;
     <a href="https://bitbucket.org/" target="_blank"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white"></a>
   &emsp;
@@ -132,7 +130,7 @@
 <br/>
 
 
-## :rocket: Let's Connect
+<h1 align="center">Let's connect</h1>
 <p align="center">
   &emsp;
     <a href="https://www.linkedin.com/in/fredy-osorio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
