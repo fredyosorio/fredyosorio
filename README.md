@@ -7,7 +7,7 @@
 
 <h1 align="center">Skills</h1>
 
-<h3 align="center">👉 Programming languages / Learning</h3>
+<h3 align="center">👉 Programming languages</h3>
 <p align="center">
   &emsp;
   <a href="https://www.php.net/" target="_blank">
@@ -18,16 +18,12 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
   </a>
   &emsp;
-  <a href="" target="_blank"> 
-     /
-  </a>
-  &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="center">👉 Frameworks / Learning</h3>
+<h3 align="center">👉 Frameworks & more</h3>
 <p align="center">
   &emsp;
   <a href="https://laravel.com/" target="_blank">
@@ -42,10 +38,6 @@
     <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   </a>
   &emsp;
-  <a href="" target="_blank"> 
-     /
-  </a>
-  &emsp;
   <a href="https://expressjs.com/es/" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   </a>
@@ -55,7 +47,7 @@
   </a>
 </p>
 
-<h3 align="center">👉 Frontend Development / Learning</h3>
+<h3 align="center">👉 Frontend Development</h3>
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -74,10 +66,6 @@
     <img alt="Materialize CSS" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=flat&logo=materialize--css&logoColor=white"/>
   </a>
   &emsp;
-  <a href="" target="_blank"> 
-     /
-  </a>
-  &emsp;
   <a href="https://es.reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   </a>
@@ -87,14 +75,10 @@
   </a>
 </p>
 
-<h3 align="center">👉 Databases / Learning</h3>
+<h3 align="center">👉 Databases</h3>
 <p align="center">
   &emsp;
     <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="" target="_blank"> 
-     /
-  </a>
   &emsp;
     <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=4EA94"></a>
   &emsp;
